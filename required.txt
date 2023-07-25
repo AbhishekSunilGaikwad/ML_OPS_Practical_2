@@ -1,0 +1,5 @@
+Python 3.10.7
+Numpy  1.24.3
+Pandas  2.0.2
+Sklearn 1.2.2
+pickle 4.0
