@@ -1,5 +1,5 @@
-Python 3.10.7
-Numpy  1.24.3
-Pandas  2.0.2
-Sklearn 1.2.2
+python 3.10.7
+numpy  1.24.3
+nandas  2.0.2
+scikit-learn 1.2.2
 pickle 4.0
